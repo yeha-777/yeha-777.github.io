@@ -1,6 +1,6 @@
 ---
 layout: post
-title: CasualML installation
+title: CausalML installation
 #subtitle: There's lots to learn!
 gh-repo: uber/causalml
 gh-badge: [star, fork, follow]
