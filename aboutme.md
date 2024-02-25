@@ -20,3 +20,7 @@ title: About me
 ###Honors and Awards
 - Dean's List (Aug 2016)
 - Merit-based scholarship (Aug 2012, Feb 2015, Feb 2016, Jan 2017)
+
+###Skills
+- Programming Languages: Python, C/C++, Bash, R, Matlab
+- Languages: Korean, English
