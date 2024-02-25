@@ -136,3 +136,6 @@ ax.set_ylabel('y')
 ax.set_zlabel('z')
 ax.legend(bbox_to_anchor=(1.1, 1))
 ```
+
+
+Source of this post: https://github.com/openai/openai-cookbook

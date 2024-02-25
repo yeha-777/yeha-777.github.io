@@ -89,3 +89,4 @@ print('Average Treatment Effect (BaseRRegressor using XGBoost): {:.2f} ({:.2f}, 
 See the [Meta-learner example notebook](https://github.com/uber/causalml/blob/master/docs/examples/meta_learners_with_synthetic_data.ipynb) for details.
 
 
+Source of this post: https://github.com/uber/causalml
