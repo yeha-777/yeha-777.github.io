@@ -1,16 +1,22 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+#subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+Research Interest
+- Causal Machine Learning
+- Deep counterfactual estimation
 
-What else do you need?
+Hobby
+- Watching videos on Disney+ (e.g., Marvel Studios' animated series "What if...?")
 
-### My story
+Education
+- Ph.D. Candidate in Data Science (SNU, Advisor: Sanghack Lee)
+- M.A. in Economics (SNU, Advisor: Soyoung Kim)
+- B.S. Major in Business Administration, minor in Financial Economics (SNU, Advisor: Wonwoo Park)
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Honors and Awards
+- Dean's List (Aug 2016)
+- Merit-based scholarship (Aug 2012, Feb 2015, Feb 2016, Jan 2017)
