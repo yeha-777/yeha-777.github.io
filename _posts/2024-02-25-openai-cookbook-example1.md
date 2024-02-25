@@ -138,4 +138,4 @@ ax.legend(bbox_to_anchor=(1.1, 1))
 ```
 
 
-Source of this post: https://github.com/openai/openai-cookbook
+Source of this post: [openai/openai-cookbook](https://github.com/openai/openai-cookbook)
