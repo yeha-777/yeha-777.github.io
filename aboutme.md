@@ -5,7 +5,7 @@ title: About me
 ---
 
 
-### Research Interest
+### Research Interests
 - Causal Machine Learning
 - Deep Counterfactual Inference
 
