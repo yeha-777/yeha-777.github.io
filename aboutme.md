@@ -8,6 +8,7 @@ title: About me
 ### Research Interests
 - Causal Machine Learning
 - Deep Counterfactual Inference
+- Interpretable Auto Personalization
 
 ### Hobby
 - Watching videos on Disney+ (e.g., Marvel Studios' animated series "What if...?")
