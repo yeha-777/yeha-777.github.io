@@ -23,5 +23,7 @@ title: About me
 - Merit-based scholarship (Aug 2012, Feb 2015, Feb 2016, Jan 2017)
 
 ### Skills
-- Programming Languages: Python, C/C++, Bash, R, Matlab
+- Programming languages: Python, C/C++, Bash, R, Matlab, etc.
+- ML/DL frameworks: Pytorch, Tensorflow, Scikit-learn, Catboost, etc.
+- Cloud platforms: AWS, GCP (Google Cloud Platform), etc.
 - Languages: Korean, English
