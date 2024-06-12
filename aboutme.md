@@ -7,11 +7,16 @@ title: About me
 
 ### Research Interests
 - Causal Machine Learning
-- Deep Counterfactual Inference
-- Interpretable Auto Personalization
+  - Interpretable Auto Personalization, Model-agnostic Personalization, etc.
+
+- Causal Data Synthesis
+  - Deep Counterfactual Inference, Counterfactual Data Augmentation, etc.  
+
 
 ### Hobby
 - Watching videos on Disney+ (e.g., Marvel Studios' animated series "What if...?")
+- Cooking dishes from memorable places I've visited in the past, such as Sukiyaki from Japan and traditional Carbonara from Italy. 
+
 
 ### Education
 - Ph.D. Candidate in Data Science (SNU, Advisor: Sanghack Lee)
