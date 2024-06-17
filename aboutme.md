@@ -7,7 +7,7 @@ title: About me
 
 ### Research Interests
 - Causal Machine Learning
-  - Interpretable Auto Personalization, Model-agnostic Personalization, etc.
+  - Interpretable Automated Personalization, Model-agnostic Personalization, etc.
 
 - Causal Data Synthesis
   - Deep Counterfactual Inference, Counterfactual Data Augmentation, etc.  
@@ -27,8 +27,11 @@ title: About me
 - Dean's List (Aug 2016)
 - Merit-based scholarship (Aug 2012, Feb 2015, Feb 2016, Jan 2017)
 
+
 ### Skills
-- Programming languages: Python, C/C++, Bash, R, Matlab, etc.
-- ML/DL frameworks: Pytorch, Tensorflow, Scikit-learn, Catboost, etc.
+- Programming languages: Python, C/C++, Bash, Julia, R, Matlab, etc.
+- ML/DL frameworks: Pytorch, Tensorflow, Scikit-learn, Catboost, LightGBM, etc.
+- CV/NLP libraries: Transformers, OpenCV, Fairseq, Gensim, NLTK, etc.
+- Statistical modeling libraries: Statsmodels, Pyro, SciPy, etc.  
 - Cloud platforms: AWS, GCP (Google Cloud Platform), etc.
 - Languages: Korean, English
