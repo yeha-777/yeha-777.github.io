@@ -39,3 +39,4 @@ title: About me
 
 ### Misc.
 - A few years ago, I also used R and am well aware of its contributions to valuable and important research across different fields. However, in my primary area of study, R is not commonly utilized, leading to my current unfamiliarity with the language. Consequently, I would kindly request to refrain from directing R-related questions to me.
+
