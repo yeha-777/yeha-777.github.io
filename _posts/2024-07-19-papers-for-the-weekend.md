@@ -2,7 +2,7 @@
 layout: post
 title: papers for the weekend
 #subtitle: There's lots to learn!
-#gh-repo:  
+gh-repo: archinetai/audio-ai-timeline
 #gh-badge: 
 #tags: [test]
 comments: false
