@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Papers for the weekend
+title: papers for the weekend
 #subtitle: There's lots to learn!
 #gh-repo:  
 #gh-badge: 
