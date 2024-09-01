@@ -7,13 +7,13 @@ title: About me
 
 ### Research Interests
 - Causal Machine Learning
-  - Interpretable Automated Personalization, Model-agnostic Personalization, etc.
+  - ITE/CATE estimation across various time settings and data types, especially in cases where it is difficult to assume that the treatment effect is identical for each unit, in both model-agnostic and model-specific settings.
 
 - Causal Data Synthesis
-  - Deep Counterfactual Inference, Counterfactual Data Augmentation, etc.  
+  - Performing counterfactual inference across various data types and problem settings in safety-critical domains, including visual counterfactual explanation, counterfactual image editing, EHR synthesis, etc.
 
 
-### Hobby
+### Hobbies
 - Watching videos on Disney+ (e.g., Marvel Studios' animated series "What if...?")
 - Cooking dishes from memorable places I've visited in the past, such as Sukiyaki from Japan and traditional Carbonara from Italy. 
 
@@ -21,7 +21,7 @@ title: About me
 ### Education
 - Ph.D. Candidate in Data Science (SNU, Advisor: Sanghack Lee)
 - M.A. in Economics (SNU, Advisor: Soyoung Kim)
-- B.S. Major in Business Administration, minor in Financial Economics (SNU, Advisor: Wonwoo Park)
+- B.S. in Business Administration, minor in Financial Economics (SNU, Advisor: Wonwoo Park)
 
 ### Honors and Awards
 - Dean's List (Aug 2016)
