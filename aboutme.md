@@ -7,7 +7,7 @@ title: About me
 
 ### Research Interests
 - Causal Machine Learning
-  - ITE/CATE estimation across various time settings and data types, especially in cases where it is difficult to assume that the treatment effect is identical for each unit, in both model-agnostic and model-specific settings.
+  - Causal effect estimation across various time settings and data types, especially in cases where it is difficult to assume that the treatment effect is identical for each unit, in both model-agnostic and model-specific settings.
 
 - Causal Data Synthesis
   - Performing counterfactual inference across various data types and problem settings in safety-critical domains, including visual counterfactual explanation, counterfactual image editing, EHR synthesis, etc.
