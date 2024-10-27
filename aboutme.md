@@ -7,10 +7,10 @@ title: About me
 
 ### Research Interests
 - Causal Machine Learning
-  - Causal effect estimation across various time settings and data types, especially in cases where it is difficult to assume that the treatment effect is identical for each unit, in both model-agnostic and model-specific settings.
+  - Causal effect estimation across diverse time settings and data types, particularly in scenarios where assuming identical treatment effects across units is challenging. My research encompasses both model-agnostic and model-specific approaches, aiming to enhance the understanding of intervention impacts in complex settings.
 
 - Causal Data Synthesis
-  - Performing counterfactual inference across various data types and problem settings in safety-critical domains, including visual counterfactual explanation, counterfactual image editing, EHR synthesis, etc.
+  - Counterfactual inference across various data types and problem settings, including counterfactual explanations, counterfactual image editing, EHR synthesis. I apply these techniques to high-dimensional, multimodal data to address real-world problems in safety-critical domains. This approach leverages SCMs, their variants, and latent causal modeling when necessary, ensuring a robust and comprehensive approach to complex challenges in practical applications.
 
 
 ### Hobbies
